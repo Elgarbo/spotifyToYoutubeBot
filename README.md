@@ -5,8 +5,11 @@ Discord bot that will convert playlist songs from spotify to youtube
 
 * Python 3 (tested with v3.6.6, should work for 3.5+)
   * [Discord Python module](https://pypi.org/project/discord.py/)
-  
+
   * Admin permissions on Discord server
+ 
+<b><i>IMPORTANT:</i> I use autoPep 8 formatter in this project.
+
 
 # How does it work?
 All you gotta do is insert your <b> >>PUBLIC<< </b> <a href="http://www.spotify.com">Spotify</a> playlist URL when prompted, then the app will automatically search all songs from that playlist on <a href="http://youtube.com">YouTube</a> and return the URLs.
