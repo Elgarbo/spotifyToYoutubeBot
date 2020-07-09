@@ -1,5 +1,5 @@
 # Spotify To Discord Bot  ▶
-Discord bot that will convert playlist songs from spotify to youtube
+Discord bot that will convert playlist songs from spotify to a youtube song playlist
 
 ## Prerequisites
 
